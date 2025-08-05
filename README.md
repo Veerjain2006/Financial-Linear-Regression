@@ -1,9 +1,7 @@
 # Stock analysis using Linear Regression
 
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
-
-- [Description](#description)
+- [Dataset](#dataset)
 - [How To Use](#how-to-use)
 - [References](#references)
 - [License](#license)
@@ -11,9 +9,8 @@ You're sections headers will be used to reference location of destination.
 
 ---
 
-## Description
-
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+## Dataset
+The dataset contains the closing price for GOLD (GLD), DOW JONES (DJIA), TESLA (TSLA), BITCOIN (BTC) from September 
 
 #### Technologies
 
