@@ -1,10 +1,4 @@
-# Read Me Template
-
-![Project Image](project-image-url)
-
-> This is a ReadMe template to help save you time and effort.
-
----
+# Stock analysis using Linear Regression
 
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
